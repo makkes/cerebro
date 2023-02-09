@@ -2,6 +2,13 @@ baseURL = "/"
 title = "Cerebro - My Personal Knowledge Base"
 enableRobotsTXT = true
 
+contentDir = "content"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+[languages]
+[languages.en]
+contentDir = "content/en"
+
 # Will give values to .Lastmod etc.
 enableGitInfo = true
 
