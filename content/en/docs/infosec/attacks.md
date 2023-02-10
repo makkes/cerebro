@@ -20,3 +20,7 @@ description: Everything about attack vectors
 ### Remote Code Execution (RCE)
 
 ### Cross-Site Request Forgery (CSRF)
+
+### Sub-domain Takeover
+
+https://developer.mozilla.org/en-US/docs/Web/Security/Subdomain_takeovers
