@@ -15,9 +15,9 @@ jobs:
         uses: snok/container-retention-policy@v1
         with:
           image-names: cerebro
-          cut-off: 1 day ago UTC
+          cut-off: 1 second ago UTC
           timestamp-to-use: created_at
           account-type: personal
-          keep-at-least: 2
+          keep-at-least: 1
           filter-include-untagged: false
           token: ${{ secrets.PRUNE_TOKEN }}
