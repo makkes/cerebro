@@ -1,0 +1,23 @@
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: [Build Image]
+    types:
+      - completed
+
+jobs:
+  prune-images:
+    permissions:
+      packages: write
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - name: prune all images, keeping the two most recent ones
+        uses: snok/container-retention-policy@v1
+        with:
+          image-names: cerebro
+          cut-off: 1 second UTC
+          timestamp-to-use: created_at
+          account-type: personal
+          keep-at-least: 2
+          token: ${{ secrets.GITHUB_TOKEN }}
