@@ -12,7 +12,6 @@ jobs:
     permissions:
       packages: write
     runs-on: ubuntu-latest
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
       - name: prune all images, keeping the two most recent ones
         uses: snok/container-retention-policy@v1
