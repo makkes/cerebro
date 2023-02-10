@@ -9,6 +9,8 @@ on:
 
 jobs:
   prune-images:
+    env:
+      HTTPX_LOG_LEVEL: trace
     permissions:
       packages: write
     runs-on: ubuntu-latest
