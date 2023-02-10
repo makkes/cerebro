@@ -21,4 +21,5 @@ jobs:
           timestamp-to-use: created_at
           account-type: personal
           keep-at-least: 2
+          filter-include-untagged: false
           token: ${{ secrets.GITHUB_TOKEN }}
