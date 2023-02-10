@@ -13,4 +13,4 @@ February 6, 2023
 
 February 5, 2023
 
-https://www.reddit.com/r/reddit/comments/10y427y/we_had_a_security_incident_heres_what_we_know/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+https://www.reddit.com/r/reddit/comments/10y427y/we_had_a_security_incident_heres_what_we_know/
