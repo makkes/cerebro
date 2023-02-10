@@ -18,7 +18,7 @@ jobs:
         uses: snok/container-retention-policy@v1
         with:
           image-names: cerebro
-          cut-off: 1 second UTC
+          cut-off: 1 second ago UTC
           timestamp-to-use: created_at
           account-type: personal
           keep-at-least: 2
