@@ -1,3 +1,5 @@
+name: Prune old Images
+
 on:
   workflow_dispatch:
   workflow_run:
