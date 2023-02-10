@@ -9,19 +9,15 @@ on:
 
 jobs:
   prune-images:
-    env:
-      HTTPX_LOG_LEVEL: trace
-    permissions:
-      packages: write
     runs-on: ubuntu-latest
     steps:
       - name: prune all images, keeping the two most recent ones
         uses: snok/container-retention-policy@v1
         with:
           image-names: cerebro
-          cut-off: 1 second ago UTC
+          cut-off: 1 day ago UTC
           timestamp-to-use: created_at
           account-type: personal
           keep-at-least: 2
           filter-include-untagged: false
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PRUNE_TOKEN }}
