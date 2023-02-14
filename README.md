@@ -2,6 +2,8 @@
 
 This is my personal wiki-like collection of information on various topics. The resulting site is hosted at [cerebro.e13.dev](https://cerebro.e13.dev).
 
+The site is generated using the awesome [Docsy](https://www.docsy.dev/) theme for [Hugo](https://gohugo.io/).
+
 ## Running Locally
 
 Run
