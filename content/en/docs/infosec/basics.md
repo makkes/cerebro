@@ -15,12 +15,17 @@ Additional properties:
 ## Sources
 
 - [IT-Grundschutz-Kompendium][bsikomp]
+- [RFC 2350 - Expectations for Computer Security Incident Response](https://www.rfc-editor.org/rfc/rfc2350.html)
 
 [bsikomp]: https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/IT-Grundschutz-Kompendium/it-grundschutz-kompendium_node.html "BSI IT-Grundschutz-Kompendium"
 
 ## Podcasts
 
 - [Security, Cryptography, Whatever](https://securitycryptographywhatever.buzzsprout.com/)
+
+## Tutorials/Videos
+
+- [IppSec - Videos on pretty much everything infosec](https://ippsec.rocks/?#)
 
 ## News
 
