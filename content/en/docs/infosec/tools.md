@@ -16,6 +16,8 @@ description: "A collection of tools I've found useful"
 - [john the ripper - password security auditing and password recovery tool](https://www.openwall.com/john/)
 - [ffuf - Fast web fuzzer written in Go](https://github.com/ffuf/ffuf)
 - [p0wny-shell -  Single-file PHP shell](https://github.com/flozz/p0wny-shell)
+- [Impacket - a collection of Python classes for working with network protocols](https://github.com/fortra/impacket/)
+- [burpsuite - An integrated platform for performing security testing of web applications](https://portswigger.net/burp)
 
 ## Other Collections
 
