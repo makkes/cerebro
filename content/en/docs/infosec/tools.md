@@ -15,9 +15,10 @@ description: "A collection of tools I've found useful"
 - [gobuster - Directory/File, DNS and VHost busting tool written in Go](https://github.com/OJ/gobuster)
 - [john the ripper - password security auditing and password recovery tool](https://www.openwall.com/john/)
 - [ffuf - Fast web fuzzer written in Go](https://github.com/ffuf/ffuf)
-- [p0wny-shell -  Single-file PHP shell](https://github.com/flozz/p0wny-shell)
+- [p0wny-shell - Single-file PHP shell](https://github.com/flozz/p0wny-shell)
 - [Impacket - a collection of Python classes for working with network protocols](https://github.com/fortra/impacket/)
 - [burpsuite - An integrated platform for performing security testing of web applications](https://portswigger.net/burp)
+- [sqlmap - Automatic SQL injection and database takeover tool](https://sqlmap.org)
 
 ## Other Collections
 
