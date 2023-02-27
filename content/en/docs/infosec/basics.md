@@ -12,7 +12,11 @@ Additional properties:
 - Authentication
 - Authorization
 
-## Sources
+# Books
+
+- [Heather Adkins, Betsy Beyer, Paul Blankinship, Ana Oprea, Piotr Lewandowski, Adam Stubblefield (2020): Building Secure and Reliable Systems. O'Reilly Media](https://sre.google/books/building-secure-reliable-systems/)
+
+## Definitions
 
 - [IT-Grundschutz-Kompendium][bsikomp]
 - [RFC 2350 - Expectations for Computer Security Incident Response](https://www.rfc-editor.org/rfc/rfc2350.html)
