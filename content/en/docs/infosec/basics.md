@@ -21,6 +21,13 @@ Additional properties:
 - [IT-Grundschutz-Kompendium][bsikomp]
 - [RFC 2350 - Expectations for Computer Security Incident Response](https://www.rfc-editor.org/rfc/rfc2350.html)
 
+### Attack/Threat Analysis
+
+- Threat Intelligence: written reports, indicators of compromise (IOC), malware reports
+- Cyber Kill Chains
+- Tactics, Techniques and Procedures (TTP)
+  - ATT&CK framework (MIITRE)
+
 [bsikomp]: https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/IT-Grundschutz-Kompendium/it-grundschutz-kompendium_node.html "BSI IT-Grundschutz-Kompendium"
 
 ## Podcasts
