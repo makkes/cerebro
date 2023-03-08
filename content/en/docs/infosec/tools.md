@@ -19,6 +19,7 @@ description: "A collection of tools I've found useful"
 - [Impacket - a collection of Python classes for working with network protocols](https://github.com/fortra/impacket/)
 - [burpsuite - An integrated platform for performing security testing of web applications](https://portswigger.net/burp)
 - [sqlmap - Automatic SQL injection and database takeover tool](https://sqlmap.org)
+- [s3scanner - Scan for open S3 buckets and dump the contents](https://github.com/sa7mon/S3Scanner)
 
 ## Other Collections
 
