@@ -24,9 +24,9 @@ Additional properties:
 ### Attack/Threat Analysis
 
 - Threat Intelligence: written reports, indicators of compromise (IOC), malware reports
-- Cyber Kill Chains
+- [Cyber Kill Chains](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
 - Tactics, Techniques and Procedures (TTP)
-  - ATT&CK framework (MIITRE)
+  - [ATT&CK framework (MIITRE)](https://attack.mitre.org/)
 
 [OWASP Kubernetes Top 10](https://owasp.org/www-project-kubernetes-top-ten/)
 
