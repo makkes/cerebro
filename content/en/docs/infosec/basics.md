@@ -18,7 +18,7 @@ Additional properties:
 
 ## Definitions
 
-- [IT-Grundschutz-Kompendium][bsikomp]
+- [IT-Grundschutz-Kompendium](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/IT-Grundschutz-Kompendium/it-grundschutz-kompendium_node.html)
 - [RFC 2350 - Expectations for Computer Security Incident Response](https://www.rfc-editor.org/rfc/rfc2350.html)
 
 ### Attack/Threat Analysis
@@ -28,7 +28,7 @@ Additional properties:
 - Tactics, Techniques and Procedures (TTP)
   - ATT&CK framework (MIITRE)
 
-[bsikomp]: https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/IT-Grundschutz-Kompendium/it-grundschutz-kompendium_node.html "BSI IT-Grundschutz-Kompendium"
+[OWASP Kubernetes Top 10](https://owasp.org/www-project-kubernetes-top-ten/)
 
 ## Podcasts
 
