@@ -3,6 +3,21 @@ title: "Incidents"
 description: Interesting and recent IT security incidents
 ---
 
+## SCARLETEEL: Operation leveraging Terraform, Kubernetes, and AWS for data theft
+
+February 28, 2023
+
+> The Sysdig Threat Research Team recently discovered a sophisticated cloud operation in a customer environment, dubbed
+> SCARLETEEL, that resulted in stolen proprietary data.
+
+[...]
+
+> This attack was more sophisticated than most, as it started from a compromised Kubernetes container and spread to the
+> victim’s AWS account. The attackers also had knowledge of AWS cloud mechanics, such as Elastic Compute Cloud (EC2)
+> roles, Lambda serverless functions, and Terraform.
+
+- [original article at Sysdig](https://sysdig.com/blog/cloud-breach-terraform-data-theft/)
+
 ## Attack on German Schools in Karlsruhe
 
 February 14, 2023
