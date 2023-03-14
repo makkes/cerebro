@@ -11,5 +11,8 @@ RUN hugo -b ${BASEURL}
 
 FROM nginx:1.23.3-alpine
 
+USER 65534:65534
+
 COPY --from=builder /cerebro/public /usr/share/nginx/html
 COPY default.conf /etc/nginx/conf.d/
+COPY nginx.conf /etc/nginx/
