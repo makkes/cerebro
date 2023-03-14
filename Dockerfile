@@ -1,4 +1,4 @@
-FROM alpine:3.17.1 as builder
+FROM alpine:3.17.2 as builder
 ARG BASEURL
 
 RUN apk add --no-cache git make curl go npm hugo
@@ -9,7 +9,7 @@ COPY . .
 RUN npm install postcss-cli
 RUN hugo -b ${BASEURL}
 
-FROM nginx:1.23.3-alpine
+FROM nginx:1.23.3-alpine-slim
 
 USER 65534:65534
 
