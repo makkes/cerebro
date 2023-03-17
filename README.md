@@ -9,11 +9,11 @@ The site is generated using the awesome [Docsy](https://www.docsy.dev/) theme fo
 Run
 
 ```
-make serve-local
+hugo server -D
 ```
 
 to run the site locally and view it in a browser.
 
 ## Updating the live Site
 
-A [GitHub Actions workflow](./.github/workflows/build-image.yml) keeps building and pushing [a container image](https://github.com/makkes/cerebro/pkgs/container/cerebro) with the site's content upon every new commit pushed to the `main` branch.
+A [GitHub Actions workflow](./.github/workflows/hugo.yml) keeps building and deploying the site using GitHub Pages upon every new commit pushed to the `main` branch.
