@@ -11,4 +11,4 @@ Attack models employed:
 
 - Network Attacker
 - Compromised Server
-- Complelled Access
+- Compelled Access
