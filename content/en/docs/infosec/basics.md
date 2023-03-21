@@ -12,9 +12,10 @@ Additional properties:
 - Authentication
 - Authorization
 
-# Books
+# Books/Guides
 
 - [Heather Adkins, Betsy Beyer, Paul Blankinship, Ana Oprea, Piotr Lewandowski, Adam Stubblefield (2020): Building Secure and Reliable Systems. O'Reilly Media](https://sre.google/books/building-secure-reliable-systems/)
+- [CNCF: Cloud Native Security Whitepaper Version 2](https://www.cncf.io/wp-content/uploads/2022/06/CNCF_cloud-native-security-whitepaper-May2022-v2.pdf)
 
 ## Definitions
 
