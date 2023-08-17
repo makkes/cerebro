@@ -3,6 +3,10 @@ title: "Security Tools"
 description: "A collection of tools I've found useful"
 ---
 
+## Learning
+
+- [Damn Vulnerable Web App, DVWA](https://github.com/digininja/DVWA): The aim of DVWA is to practice some of the most common web vulnerabilities, with various levels of difficulty, with a simple straightforward interface. 
+
 ## Scanners
 
 - [Trivy - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more](https://trivy.dev/)
