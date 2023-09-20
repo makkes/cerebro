@@ -25,6 +25,10 @@ description: "A collection of tools I've found useful"
 - [sqlmap - Automatic SQL injection and database takeover tool](https://sqlmap.org)
 - [s3scanner - Scan for open S3 buckets and dump the contents](https://github.com/sa7mon/S3Scanner)
 
+## Miscellaneous 
+
+- [Snuffy - a simple command line tool to inspect SSL/TLS connections](https://github.com/alessandrod/snuffy)
+
 ## Other Collections
 
 - [Awesome Hacking - A collection of awesome lists for hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
