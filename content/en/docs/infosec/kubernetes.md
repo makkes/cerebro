@@ -11,6 +11,7 @@ description: "Everything Kubernetes Security"
 
 - [NSA/CISA Kubernetes Hardening Guide](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF)
 - [OWASP Kubernetes Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html)
+- [EKS Best Practices Guides](https://aws.github.io/aws-eks-best-practices/security/docs/)
 
 ## Tools
 
