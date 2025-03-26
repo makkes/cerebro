@@ -3,6 +3,18 @@ title: "Incidents"
 description: Interesting and recent IT security incidents
 ---
 
+## Threema Cryptanalysis
+
+August, 2023
+
+[Cryptanalysis uncovering 7 attacks from 3 different vectors](/Threema-PST22.pdf)
+
+Attack models employed:
+
+- Network Attacker
+- Compromised Server
+- Compelled Access
+
 ## SCARLETEEL: Operation leveraging Terraform, Kubernetes, and AWS for data theft
 
 February 28, 2023

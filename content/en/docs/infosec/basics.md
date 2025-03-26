@@ -12,7 +12,7 @@ Additional properties:
 - Authentication
 - Authorization
 
-# Books/Guides
+## Books/Guides
 
 - [Heather Adkins, Betsy Beyer, Paul Blankinship, Ana Oprea, Piotr Lewandowski, Adam Stubblefield (2020): Building Secure and Reliable Systems. O'Reilly Media](https://sre.google/books/building-secure-reliable-systems/)
 - [CNCF: Cloud Native Security Whitepaper Version 2](https://www.cncf.io/wp-content/uploads/2022/06/CNCF_cloud-native-security-whitepaper-May2022-v2.pdf)
@@ -32,17 +32,8 @@ Additional properties:
 - [Cyber Kill Chains](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
 - Tactics, Techniques and Procedures (TTP)
   - [ATT&CK framework (MIITRE)](https://attack.mitre.org/)
-
-[OWASP Kubernetes Top 10](https://owasp.org/www-project-kubernetes-top-ten/)
-
-## Podcasts
-
-- [Security, Cryptography, Whatever](https://securitycryptographywhatever.buzzsprout.com/)
+- [OWASP Kubernetes Top 10](https://owasp.org/www-project-kubernetes-top-ten/)
 
 ## Tutorials/Videos
 
 - [IppSec - Videos on pretty much everything infosec](https://ippsec.rocks/?#)
-
-## News
-
-- [Heise Security](https://www.heise.de/security/)

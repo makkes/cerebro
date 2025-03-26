@@ -135,7 +135,7 @@ enable = false
 [[params.links.user]]
   name ="Company Website"
   url = "https://e13.dev"
-  icon = "fab fa-globe"
+  icon = "fa-classic fa-globe"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
   name = "GitHub"
