@@ -12,3 +12,12 @@ updates:
     interval: daily
     time: '20:00'
   open-pull-requests-limit: 10
+- package-ecosystem: "github-actions"
+  directory: "/"
+  schedule:
+    # by default this will be on a monday.
+    interval: "weekly"
+  groups:
+    actions:
+      patterns:
+        - "*"
