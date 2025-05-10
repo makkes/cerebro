@@ -35,5 +35,5 @@ Additional properties:
 - [OWASP Kubernetes Top 10](https://owasp.org/www-project-kubernetes-top-ten/)
 
 ## Tutorials/Videos
-
+- [The Ultimate Guide to JWT Vulnerabilities and Attacks (with Exploitation Examples)](https://pentesterlab.com/blog/jwt-vulnerabilities-attacks-guide)
 - [IppSec - Videos on pretty much everything infosec](https://ippsec.rocks/?#)
